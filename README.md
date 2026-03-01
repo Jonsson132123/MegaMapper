@@ -2,7 +2,7 @@
 MegaMapper är ett verktyg som skannar nätverk efter hosts, portar och tar fram information om tjänster som körs.
 <br>
 <br>
-installation:
+installation:<br>
 MegaMapper använder python modulen scapy för arp requests. För att MegaMapper ska funka måste scapy installeras via kommandot pip install scapy. 
 <br>
 <br>
