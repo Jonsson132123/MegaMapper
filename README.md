@@ -2,7 +2,7 @@
 
 A command-line network scanner built in Python, inspired by Nmap. Developed as part of a self-directed IT security course to learn network programming fundamentals.
 
-> **Educational use only. Run against your own lab network or authorized systems.**
+> **!!Educational use only. Run against your own lab network or authorized systems.**
 
 ---
 
