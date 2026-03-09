@@ -1,6 +1,6 @@
 # MegaMapper
 
-A command-line network scanner built in Python, inspired by Nmap. Developed as part of a self-directed IT security course to learn network programming fundamentals.
+A command-line network scanner built in Python, inspired by Nmap. I built this to get better at programming, learn how networking works under the hood, and understand how security tools like Nmap actually do what they do.
 
 > **!!Educational use only. Run against your own lab network or authorized systems.**
 
